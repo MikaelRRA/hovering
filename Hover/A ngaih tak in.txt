@@ -1,0 +1,29 @@
+
+body{
+    display: flex;
+    display: -webkit-flex;
+    -webkit-justify-content : center;
+    -webkit-align-items : center;
+}
+
+.pic{
+	-webkit-justify-content: center;
+}
+
+.hov{
+    width: 100%;
+    position: absolute;
+    height: 500px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+
+}
+.info{
+
+}
+
+nothing{
+    border-radius:50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius:50%;
+}
